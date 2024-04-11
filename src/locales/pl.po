@@ -25,7 +25,11 @@ msgstr "Kliknij na logo Vite i React, aby dowiedzieć się więcej"
 msgid "Edit <0>src/App.tsx</0> and save to test HMR"
 msgstr "Edytuj <0>src/App.tsx</0> i zapisz, aby przetestować HMR"
 
-#: src/App.tsx:18
-#: src/App.tsx:35
+#: src/App.tsx:16
+#: src/App.tsx:34
 msgid "Hey '{name}'!"
 msgstr "!'{eman}' yeH"
+
+#: src/Title.tsx:4
+msgid "hi"
+msgstr ""
